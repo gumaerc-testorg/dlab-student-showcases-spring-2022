@@ -4,6 +4,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/res-ec-003-d-lab-student-showcases-spring-2022/res-ec-003s22.jpeg
+file_size: 151504
 file_type: image/jpeg
 image_metadata:
   caption: Low-cost UV disinfection box to mitigate hospital-transferable diseases
